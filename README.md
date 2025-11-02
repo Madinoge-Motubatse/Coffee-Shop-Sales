@@ -1,4 +1,4 @@
-# Bright Coffee Shop Repository Repor
+# Bright Coffee Shop Repository Report
 This report compiles and analyses Bright Coffee’s historical sales data collected from three key locations Astoria, Hell’s Kitchen, and Lower Manhattan. The sales data was generated in the first semester of 2023. The dataset includes detailed revenue information by product type, providing a comprehensive view of performance across coffee beverages, pastries, and retail items.
 The purpose of the repository analysis is to present a clear overview of product trends, highlight high and low performing categories, and identify actionable insights to support product improvement, operational efficiency, and sustained revenue growth. The findings serve as a foundation for strategic decision-making and future business planning at Bright Coffee.
 
