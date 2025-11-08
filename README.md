@@ -6,8 +6,11 @@ The purpose of the repository analysis is to present a clear overview of product
 The dataset includes transactional records such as date, time, product category, item name, quantity sold, price, and total sales. This also include customer location. Data was sourced from the Bright coffee shop’s system.
 
 # Tools 
-•	Python for data cleaning, analysis, and visualization
+•	SQL for data cleaning, analysis, and visualization
 •	Excel for initial data exploration
+•	MIRO for roadmap
+•	Github for data storage or saving
+
 
 # Objectives
 1.	Identify top-selling products and peak sales periods
